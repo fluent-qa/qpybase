@@ -1,0 +1,54 @@
+tools:
+  - https://github.com/twocucao/hutoolpy.git
+  - https://github.com/HansBug/hbutils.git
+  - https://github.com/wolph/python-utils.git
+  -  https://github.com/team23/b5.git
+  - https://github.com/cdgriffith/Reusables.git
+  - https://github.com/flaggo/pydu.git
+  - https://github.com/jodal/pykka.git
+  - https://github.com/coady/multimethod.git
+  - https://github.com/mahmoud/boltons
+logs:
+  - https://github.com/ydf0509/nb_log.git
+
+models:
+  -  https://github.com/xnuinside/omymodels.git
+  - https://github.com/perdy/flama.git
+redis:
+  - https://github.com/Bogdanp/dramatiq_dashboard.git
+pdf:
+  - https://github.com/LeoFCardoso/pdf2pdfocr
+feeds:
+  - https://github.com/ets-labs/newsfeed.git
+  - https://github.com/dgtlmoon/changedetection.io.git
+book:
+  -  https://github.com/qiangmzsx/Software-Engineering-at-Google.git
+  -  https://github.com/girliemac/a-picture-is-worth-a-1000-words.git
+verify:
+  - https://github.com/dgilland/verify.git
+orm:
+  - https://github.com/piccolo-orm/piccolo.git
+  - https://github.com/cisco/zepster
+queue:
+  -  https://github.com/seedofjoy/darq.git
+dashboard:
+  - https://github.com/DanielDaCosta/dashboardapp-daily-report.git
+debug-tools:
+  - https://github.com/Erotemic/xdev.git
+ides:
+  - https://github.com/toyai/python-playground.git
+poi:
+  - https://github.com/best-practice-and-impact/gptables.git
+data-workflow:
+  - https://github.com/biglocalnews/prefect-flow-template.git
+  - https://github.com/pwwang/pipen.git
+  - https://github.com/Kanaries/pygwalker.git
+  - https://github.com/visualpython/visualpython.git
+  - https://github.com/vsoch/qme.git
+  - https://github.com/taskiq-python/taskiq.git
+spider:
+  - https://github.com/ShichaoMa/structure_spider
+api-testing:
+  - https://github.com/chkware/cli.git
+
+
