@@ -1,5 +1,6 @@
 from dynaconf import Dynaconf
 from pydantic import BaseModel
+from typing import Type
 
 settings = Dynaconf(
     envar_prefix="fluent",
