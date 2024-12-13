@@ -620,3 +620,6 @@ htmlcov/
 .venv/
 .coverage
 poetry.lock
+allure-results/
+.ruff_cache/
+dist/
