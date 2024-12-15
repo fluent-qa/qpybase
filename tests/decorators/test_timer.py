@@ -1,7 +1,6 @@
-
 from time import sleep
 
-from qpybase.decorators.timer import timer, profile_timer
+from qpybase.decorators.timer import profile_timer, timer
 
 
 @timer()
